@@ -11,8 +11,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/eoscanada/eos-go"
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/gocnpan/eos-go"
+	"github.com/gocnpan/eos-go/ecc"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

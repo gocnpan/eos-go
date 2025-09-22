@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/gocnpan/eos-go/ecc"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

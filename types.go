@@ -15,7 +15,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/gocnpan/eos-go/ecc"
 	"github.com/tidwall/gjson"
 )
 
