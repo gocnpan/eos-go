@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
+	"github.com/gocnpan/govalidator"
 	"github.com/streamingfast/validator"
-	"github.com/thedevsaddam/govalidator"
 )
 
 func init() {
