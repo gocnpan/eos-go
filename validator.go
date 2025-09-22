@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/gocnpan/govalidator"
-	"github.com/streamingfast/validator"
+	"github.com/gocnpan/validator"
 )
 
 func init() {
